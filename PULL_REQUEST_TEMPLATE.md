@@ -1,12 +1,12 @@
-## O que muda
+## What changes
 
-<!-- Descreva a mudança e o porquê. -->
+<!-- Describe the change and why. -->
 
-## Como foi testado
+## How it was tested
 
-- [ ] Testes automatizados (unitários, integração com Postgres, golden)
-- [ ] Verificado em produção atrás de feature flag ou em modo sombra, quando muda comportamento
+- [ ] Automated tests (unit, integration with Postgres, golden)
+- [ ] Checked in production behind a feature flag or in shadow mode, when behavior changes
 
-## Riscos e rollback
+## Risks and rollback
 
-<!-- O que pode dar errado e como voltar. Não há staging: todo deploy precisa ter rollback. -->
+<!-- What can go wrong and how to roll back. There is no staging: every deploy needs a rollback. -->

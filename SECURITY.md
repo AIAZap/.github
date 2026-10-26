@@ -1,5 +1,5 @@
-# Política de segurança
+# Security policy
 
-Encontrou uma vulnerabilidade no AIAZAP? Não abra issue pública.
+Found a vulnerability in AIAZAP? Do not open a public issue.
 
-Fale com a equipe pelo canal de suporte em https://aiazap.com.br e peça o contato de segurança. Respondemos em até 3 dias úteis.
+Contact the team through the support channel at https://aiazap.com.br and ask for the security contact. We reply within 3 business days.
