@@ -1,5 +1,5 @@
 # .github
 
-Arquivos padrão de comunidade da organização AIAZAP (template de PR e política de segurança), aplicados aos repositórios que não tiverem os seus.
+Default community health files for the AIAZAP organization (PR template and security policy), applied to repositories that do not have their own.
 
-Este repositório é público só porque o GitHub exige isso para os arquivos padrão. Não coloque código nem informação interna aqui.
+This repository is public only because GitHub requires it for default files. Do not put code or internal information here.
